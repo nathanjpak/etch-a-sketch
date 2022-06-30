@@ -6,9 +6,9 @@
     grid-column-gap: 1px;
     grid-template-rows: repeat(4, 1fr);
     grid-row-gap: 1px;
-    background-color: #c8391c;
+    background-color: #6b6863;
 }
 
 .square {
-    background-color: #8800ff;
+    background-color: #e5e4e2;
 }
